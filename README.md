@@ -1,7 +1,7 @@
-# C Search Algorithms
+# C Searching Algorithms
 :star: Star me on GitHub — it helps!
 
-This project is a collection of search algorithms in ANSI C
+This project is a collection of searching algorithms in ANSI C
 licensed under the permissive MIT license.
 
 ### Compile the program
