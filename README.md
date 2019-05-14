@@ -9,8 +9,6 @@ licensed under the permissive MIT license.
 * [BinarySearch](https://en.wikipedia.org/wiki/Binary_search_algorithm) 
 * [FibonacciSearch](https://en.wikipedia.org/wiki/Fibonacci_search_technique) 
 * [InterpolationSearch](https://en.wikipedia.org/wiki/Interpolation_search) 
-* [HeapSort](https://en.wikipedia.org/wiki/Heapsort) 
-* [InsertionSort](https://en.wikipedia.org/wiki/Insertion_sort) 
 * [JumpSearch](https://en.wikipedia.org/wiki/Jump_search)
 * [LinearSearch](https://en.wikipedia.org/wiki/Linear_search)
 
