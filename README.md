@@ -1,4 +1,4 @@
-# C Searching Algorithms
+# Searching Algorithms
 :star: Star me on GitHub — it helps!
 
 This project is a collection of searching algorithms in ANSI C
