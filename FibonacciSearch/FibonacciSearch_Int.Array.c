@@ -1,3 +1,10 @@
+/*********************************************************************
+* Filename:  FibonacciSearch_Int.Array.c
+* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Copyright:
+* Details:   This code is the implementation of the fibonacci search algorithm.
+*********************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

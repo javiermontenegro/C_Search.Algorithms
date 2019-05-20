@@ -1,3 +1,10 @@
+/*********************************************************************
+* Filename:  JumpSearch_Int.Array.c
+* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Copyright:
+* Details:   This code is the implementation of the jump search algorithm.
+*********************************************************************/
+
 #include <stdio.h>
 #include <math.h>
 #include <time.h>
