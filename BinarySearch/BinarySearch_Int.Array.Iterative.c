@@ -1,6 +1,6 @@
 /*********************************************************************
 * Filename:  BinarySearch_Int.Array.Iterative.c
-* Author:    Javier Montenegro (www.javiermontenegro.com)
+* Author:    Javier Montenegro (https://javiermontenegro.github.io/)
 * Copyright:
 * Details:   This code is the implementation of the binary search algorithm.
 *********************************************************************/
